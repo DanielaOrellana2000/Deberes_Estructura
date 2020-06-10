@@ -3,7 +3,7 @@
 *		PROGRAMA PARA JUEGO 8 REINAS							  *
 * CARRERA: Ingenieria de Software                                 *
 * NOMBRE: Daniela Orellana                                        *
-* FECHA DE CREACIÓN: 10/06/2020                                   *
+* FECHA DE CREACIÃ“N: 10/06/2020                                   *
 * NRC: 6396                                                       *
 *******************************************************************/
 #include "Reina.h"
@@ -161,10 +161,10 @@ void Reina::mostrar()
 			enter<<*(*(tablero+i)+j)<<" ";
 		}
 		enter<<endl;
-	}
+	} 
 	enter<<endl;
 }
-
+/*************************************************************************************************************************************/
 //DEBER: MOSTRAR LOS DATOS DEL ARCHIVO EN PANTALLA 
 ////////////////////////////////////////////////////////////////////////
 // Name:       Reina::mostrarPantalla()
