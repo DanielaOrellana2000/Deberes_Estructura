@@ -1,0 +1,18 @@
+solucion 3*3
+
+Solucion N 1
+R . . 
+. R . 
+. . R 
+
+Solucion N 2
+. . R 
+R . . 
+. R . 
+
+Solucion N 3
+. R . 
+. . R 
+R . . 
+
+numero de repiticiones 10
